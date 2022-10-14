@@ -1,4 +1,4 @@
-# control-tercera-entrega-proyecto
+# contro-proyecto
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
